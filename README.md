@@ -1,5 +1,15 @@
 <img src="header.png" alt="terminal: whoami → ytong · cat about.txt → writes small tools. if it takes two clicks, script it. · ls ~/repos → keyauth mao yyb-go elm-old" width="100%">
 
+```console
+$ neofetch --stdout
+ytong@github
+────────────────────────────────────
+OS       Windows · Ubuntu
+Lang     Python · JavaScript · 一点 Go
+Now      给 keyauth 补文档和测试
+Motto    能用就行，不折腾
+```
+
 ## 在写的
 
 - **[keyauth](https://github.com/Ytong825/keyauth)** — 卡密授权系统。制卡、绑机、多设备、换绑、看日志，零依赖，1 核 1G 能跑
@@ -14,10 +24,6 @@
 
 没有第三方统计卡、打字机、访客计数——那些服务挂了主页就开天窗。
 
-唯一的外部资源是 shields 的 badge，挂了也不影响阅读。
+整页只有一张图和一个代码块，没有外部依赖，断网也能看全。
 
 </details>
-
----
-
-<p align="center"><sub>能用就行，不折腾。</sub></p>
