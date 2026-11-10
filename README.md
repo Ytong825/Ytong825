@@ -1,4 +1,4 @@
-<img src="header.png" alt="Ytong" width="100%">
+<img src="https://raw.githubusercontent.com/Ytong825/Ytong825/main/header.png" alt="Ytong" width="100%">
 
 ## 你好，我是 Ytong
 
